@@ -4,6 +4,7 @@ In this project, I will test the effect of different machine learning models lik
 
 This project focus on static analysis of malware.
 
-In the future work, i'm going to add dynamic features.
+In the future work, i'm going to add dynamic features and try to utilize deep learning method.
 
-Deep learning method(CNN, RNN, etc) will also be explored. 
+In the production environment we are going to use Spark.
+
