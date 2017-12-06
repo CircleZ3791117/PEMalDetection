@@ -6,4 +6,4 @@ This project focus on static analysis of malware.
 
 In the future work, i'm going to add dynamic features.
 
-Deep learning method will also be explored.
+Deep learning method(CNN, RNN, etc) will also be explored. 
