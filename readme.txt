@@ -7,4 +7,3 @@ This project focus on static analysis of malware.
 In the future work, i'm going to add dynamic features and try to utilize deep learning method.
 
 In the production environment we are going to use Spark.
-
